@@ -177,13 +177,10 @@ This is a Python Flask project designed to manage and interact with a MySQL data
 2. **Access the Application**
 
     Open your browser and navigate to `http://localhost:5000` to access the application.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+   
 
 ## Contact
 
 For any inquiries, you can reach me at:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: sawantshubham861@gmail.com
+- **LinkedIn**: [shubhy04](https://linkedin.com/in/shubhy04)
